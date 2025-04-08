@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Google Fonts: Ubuntu -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Favicon -->
+    <link
+      rel="icon"
+      href="{{ '/assets/img/favicon.ico' | relative_url }}"
+      type="image/x-icon"
+    />
+
+    <!-- Font Awesome for Icons -->
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+      rel="stylesheet"
+    />
+
+    <title>Page Not Found - {{ site.title }}</title>
+
+    <style>
+      body {
+        font-family: "Ubuntu", sans-serif;
+        margin: 0;
+        background-color: var(--bg-color);
+        color: var(--text-color);
+        transition: background-color 0.3s, color 0.3s;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        text-align: center;
+      }
+
+      :root {
+        --bg-color: #ffffff;
+        --text-color: #1a1a1a;
+      }
+
+      html.dark {
+        --bg-color: #1e1e1e;
+        --text-color: #e0e0e0;
+      }
+
+      .navbar h1 {
+        margin: 0;
+        font-size: 1.5rem;
+      }
+
+      .navbar .icons {
+        display: flex;
+        gap: 1rem;
+        align-items: center;
+      }
+
+      .toggle-button {
+        cursor: pointer;
+        background: none;
+        border: 1px solid var(--text-color);
+        border-radius: 50%;
+        width: 35px;
+        height: 35px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: var(--text-color);
+        font-size: 1.25rem;
+        transition: background-color 0.3s, color 0.3s;
+      }
+
+      .icon-button {
+        cursor: pointer;
+        background: none;
+        border: 1px solid var(--text-color);
+        border-radius: 50%;
+        padding: 0.5rem;
+        color: var(--text-color);
+        font-size: 1.25rem;
+        transition: background-color 0.3s, color 0.3s;
+      }
+
+      .toggle-button:hover,
+      .icon-button:hover {
+        background-color: rgba(128, 128, 128, 0.1);
+      }
+
+      .content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+      }
+
+      .content h1 {
+        font-size: 3rem;
+        margin: 1rem 0;
+      }
+
+      .content p {
+        font-size: 1.2rem;
+        margin-bottom: 1rem;
+      }
+
+      .content a {
+        color: #3498db;
+        text-decoration: none;
+        font-weight: bold;
+      }
+
+      /* Ensure content stays centered even when the page is resized */
+      html,
+      body {
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- 404 Content -->
+    <div class="content">
+      <h1>404 - Page Not Found</h1>
+      <p>Oops! The page you're looking for doesn't exist.</p>
+      <p>Go back to the <a href="/">home page</a>.</p>
+    </div>
+  </body>
+</html>

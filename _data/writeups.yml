@@ -1,0 +1,13 @@
+- title: "Stored XSS Filter Bypass in the Skills section"
+  tags: "XSS"
+  author: "Krishna Kumar"
+  publication_date: "2023-08-16"
+  added_date: "2025-04-08"
+  url: "https://medium.com/bugbountywriteup/stored-xss-filter-bypass-in-the-skills-section-7bf5e33c8ace"
+
+- title: "Blind SSRF - The Tray"
+  tags: "Blind SSRF"
+  author: "p4n7h3rx"
+  publication_date: "2023-07-29"
+  added_date: "2025-04-08"
+  url: "https://medium.com/@p4n7h3rx/blind-ssrf-the-tray-51829161e60c"

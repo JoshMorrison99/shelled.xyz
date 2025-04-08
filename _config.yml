@@ -1,0 +1,12 @@
+title: shelled.xyz
+description: >-
+  shelled.xyz is a place to find bug bounty writeups and other
+  cyber security resources. Cyber security news and trending 
+  topics in the field will be posted to keep users in the loop.
+baseurl: "/"
+url: "https://shelled.xyz"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
