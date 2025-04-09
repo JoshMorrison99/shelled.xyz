@@ -163,8 +163,68 @@
 
         .navbar {
           flex-direction: column;
-          align-items: flex-start;
+          align-items: center;
+          text-align: center;
           gap: 0.5rem;
+          padding: 1rem;
+        }
+
+        .navbar h1 {
+          font-size: 1.25rem;
+        }
+
+        .icons {
+          justify-content: center;
+          flex-wrap: wrap;
+          gap: 0.5rem;
+        }
+
+        .table-container {
+          overflow-x: auto;
+          padding: 0 0.5rem;
+        }
+
+        table.display thead,
+        table.display tbody,
+        table.display th,
+        table.display td,
+        table.display tr {
+          display: block;
+          width: 100%;
+          text-align: left;
+        }
+
+        table.display td {
+          padding: 0.5rem;
+          border-bottom: 1px solid rgba(128, 128, 128, 0.15);
+        }
+
+        table.display tr {
+          margin-bottom: 1rem;
+          border-bottom: 2px solid rgba(128, 128, 128, 0.3);
+        }
+
+        table.display thead {
+          display: none; /* Hide headers on mobile */
+        }
+
+        table.display td {
+          display: block;
+          padding: 0.5rem 0;
+          text-align: left;
+          position: relative;
+        }
+
+        table.display td::before {
+          content: attr(data-label) ": ";
+          font-weight: bold;
+          color: #888;
+          display: inline-block;
+          margin-right: 0.5rem;
+        }
+
+        table.display tr {
+          margin-bottom: 1rem;
         }
       }
     </style>
@@ -208,15 +268,17 @@
         <tbody>
           {% for writeup in site.data.writeups %}
           <tr>
-            <td>
+            <td data-label="Title">
               <a href="{{ writeup.url }}" target="_blank"
                 >{{ writeup.title }}</a
               >
             </td>
-            <td>{{ writeup.tags }}</td>
-            <td>{{ writeup.author }}</td>
-            <td>{{ writeup.publication_date }}</td>
-            <td>{{ writeup.added_date }}</td>
+            <td data-label="Tags">{{ writeup.tags }}</td>
+            <td data-label="Author">{{ writeup.author }}</td>
+            <td data-label="Publication Date">
+              {{ writeup.publication_date }}
+            </td>
+            <td data-label="Added Date">{{ writeup.added_date }}</td>
           </tr>
           {% endfor %}
         </tbody>
