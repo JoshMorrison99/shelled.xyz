@@ -39,3 +39,17 @@
   publication_date: "2024-04-02"
   added_date: "2025-04-09"
   url: "https://balintmagyar.com/articles/google-web-designer-symlink-client-side-rce-cve-2025-1079"
+
+- title: "Let's Talk About Encryption And IDORs (Yes, IDORs Again)"
+  tags: "IDOR"
+  author: "bombon (@bxmbn)"
+  publication_date: "2025-02-23"
+  added_date: "2025-04-10"
+  url: "https://bxmbn.medium.com/lets-talk-about-encryption-and-idors-yes-idor-s-again-bxmbn-911bfb7a2de3"
+
+- title: "Hijacking Sessions with IDOR and XSS"
+  tags: "XSS, ATO"
+  author: "bombon (@bxmbn)"
+  publication_date: "2025-02-23"
+  added_date: "2025-04-10"
+  url: "https://bxmbn.medium.com/hijacking-sessions-with-idor-and-xss-bxmbn-396f99761a85"
