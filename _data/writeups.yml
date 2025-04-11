@@ -67,3 +67,10 @@
   publication_date: "2024-10-02"
   added_date: "2025-04-10"
   url: "https://1-day.medium.com/175-prototype-pollution-vulnerability-my-first-bounty-197738a32330"
+
+- title: "What is prototype poisoning? Prototype bugs explained!"
+  tags: "Prototype Poisoning"
+  author: "Christoffer Jerkeby"
+  publication_date: "2022-09-14"
+  added_date: "2025-04-10"
+  url: "https://www.jerkeby.se/newsletter/posts/prototype-poisoning/"
