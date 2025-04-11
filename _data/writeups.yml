@@ -74,3 +74,10 @@
   publication_date: "2022-09-14"
   added_date: "2025-04-10"
   url: "https://www.jerkeby.se/newsletter/posts/prototype-poisoning/"
+
+- title: "Remote code execution (RCE) 101"
+  tags: "RCE, AEM"
+  author: "DK999"
+  publication_date: "2025-03-26"
+  added_date: "2025-04-11"
+  url: "https://www.bugcrowd.com/blog/remote-code-execution-rce-101/"
