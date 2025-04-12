@@ -81,3 +81,10 @@
   publication_date: "2025-03-26"
   added_date: "2025-04-11"
   url: "https://www.bugcrowd.com/blog/remote-code-execution-rce-101/"
+
+- title: "Cache Deception on my new site!"
+  tags: "Cache Deception"
+  author: "Jorian (@J0R1AN)"
+  publication_date: "2025-03-29"
+  added_date: "2025-04-12"
+  url: "https://jorianwoltjer.com/blog/p/coding/cache-deception-on-my-new-site"
