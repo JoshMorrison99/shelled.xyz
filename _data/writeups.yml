@@ -123,3 +123,10 @@
   publication_date: "2024-09-08"
   added_date: "2025-04-14"
   url: "https://medium.com/@akashoffsec/how-i-found-rce-remote-code-execution-via-file-upload-7541816e5fc4"
+
+- title: "How We Hacked a Software Supply Chain for $50K"
+  tags: "Supply Chain"
+  author: "Roni Carta, Lupin"
+  publication_date: "2025-02-15"
+  added_date: "2025-04-15"
+  url: "https://medium.com/@akashoffsec/how-i-found-rce-remote-code-execution-via-file-upload-7541816e5fc4"
