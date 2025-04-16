@@ -130,3 +130,10 @@
   publication_date: "2025-02-15"
   added_date: "2025-04-15"
   url: "https://medium.com/@akashoffsec/how-i-found-rce-remote-code-execution-via-file-upload-7541816e5fc4"
+
+- title: "I Studied 100+ SSRF Reports, and Here’s What I Learned"
+  tags: "SSRF"
+  author: "Aditya Sawant"
+  publication_date: "2024-10-06"
+  added_date: "2025-04-16"
+  url: "https://infosecwriteups.com/i-studied-100-ssrf-reports-and-heres-what-i-learned-1654c72ee2df"
