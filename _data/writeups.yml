@@ -158,3 +158,10 @@
   publication_date: "2020-11-10"
   added_date: "2025-04-16"
   url: "https://medium.com/techfenix/ssrf-server-side-request-forgery-worth-4913-my-highest-bounty-ever-7d733bb368cb"
+
+- title: "blind-ssrf-chains"
+  tags: "SSRF"
+  author: "Assetnote"
+  publication_date: "2021-01-14"
+  added_date: "2025-04-16"
+  url: "https://github.com/assetnote/blind-ssrf-chains"
