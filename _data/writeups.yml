@@ -165,3 +165,17 @@
   publication_date: "2021-01-14"
   added_date: "2025-04-16"
   url: "https://github.com/assetnote/blind-ssrf-chains"
+
+- title: "A recap of the Q&A session on Twitter"
+  tags: "SSRF"
+  author: "Agarri"
+  publication_date: "2021-04-23"
+  added_date: "2025-04-16"
+  url: "https://www.agarri.fr/blog/"
+
+- title: "Unveiling Hidden Treasures: How Analyzing JavaScript Files Led Me to Tokens and Secret Keys"
+  tags: "Credential Dislosure"
+  author: "0xBen"
+  publication_date: "2025-04-12"
+  added_date: "2025-04-16"
+  url: "https://bensaad0.medium.com/unveiling-hidden-treasures-how-analyzing-javascript-files-led-me-to-tokens-and-secret-keys-84160866baf9"
