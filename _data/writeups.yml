@@ -151,3 +151,10 @@
   publication_date: "2024-05-09"
   added_date: "2025-04-16"
   url: "https://www.assetnote.io/resources/research/digging-for-ssrf-in-nextjs-apps"
+
+- title: "SSRF (Server Side Request Forgery) worth $4,913 | My Highest Bounty Ever !"
+  tags: "SSRF"
+  author: "Sayaan Alam"
+  publication_date: "2020-11-10"
+  added_date: "2025-04-16"
+  url: "https://medium.com/techfenix/ssrf-server-side-request-forgery-worth-4913-my-highest-bounty-ever-7d733bb368cb"
