@@ -235,3 +235,17 @@
   publication_date: "2024-09-20"
   added_date: "2025-04-19"
   url: "https://github.com/VoorivexTeam/BugBountyTips/blob/main/Authentication/oauth-scope/README.md"
+
+- title: "Common OAuth Vulnerabilities"
+  tags: "OAuth"
+  author: "doyensec"
+  publication_date: "2025-01-30"
+  added_date: "2025-04-20"
+  url: "https://blog.doyensec.com/2025/01/30/oauth-common-vulnerabilities.html"
+
+- title: "OAuth Secret"
+  tags: "YouTube"
+  author: "gregxsunday"
+  publication_date: "2024-06-07"
+  added_date: "2025-04-20"
+  url: "https://www.youtube.com/watch?v=n9x7_J_a_7Q"
