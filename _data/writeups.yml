@@ -249,3 +249,10 @@
   publication_date: "2024-06-07"
   added_date: "2025-04-20"
   url: "https://www.youtube.com/watch?v=n9x7_J_a_7Q"
+
+- title: "Traveling with OAuth — Account Takeover on Booking.com"
+  tags: "OAuth"
+  author: "Aviad Carmel"
+  publication_date: "2023-03-02"
+  added_date: "2025-04-20"
+  url: "https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com"
