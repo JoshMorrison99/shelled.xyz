@@ -256,3 +256,10 @@
   publication_date: "2023-03-02"
   added_date: "2025-04-20"
   url: "https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com"
+
+- title: "Cross-Site WebSocket Hijacking Exploitation in 2025"
+  tags: "WebSocket"
+  author: "Laurence Tennant"
+  publication_date: "2025-04-17"
+  added_date: "2025-04-22"
+  url: "https://blog.includesecurity.com/2025/04/cross-site-websocket-hijacking-exploitation-in-2025/"
