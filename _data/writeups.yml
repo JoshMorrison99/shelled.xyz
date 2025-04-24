@@ -270,3 +270,10 @@
   publication_date: "2024-07-02"
   added_date: "2025-04-23"
   url: "https://blog.doyensec.com/2024/07/02/cspt2csrf.html"
+
+- title: "How I made $64k from deleted files — a bug bounty story"
+  tags: "Information Disclosure"
+  author: "Sharon Brizinov"
+  publication_date: "2025-04-23"
+  added_date: "2025-04-24"
+  url: "https://medium.com/@sharon.brizinov/how-i-made-64k-from-deleted-files-a-bug-bounty-story-c5bd3a6f5f9b"
