@@ -305,3 +305,10 @@
   publication_date: "2025-05-01"
   added_date: "2025-05-01"
   url: "https://www.youtube.com/watch?v=7ppNXESTu6I"
+
+- title: "Breaking OTPs in the Real World: How Design Flaws Led to Full Account Takeover"
+  tags: "OTP Bypass"
+  author: "Huntsman"
+  publication_date: "2025-05-02"
+  added_date: "2025-05-03"
+  url: "https://medium.com/@Arioex/breaking-otps-in-the-real-world-how-design-flaws-led-to-full-account-takeover-46a09f95eaba"
