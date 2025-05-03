@@ -313,9 +313,16 @@
   added_date: "2025-05-03"
   url: "https://medium.com/@Arioex/breaking-otps-in-the-real-world-how-design-flaws-led-to-full-account-takeover-46a09f95eaba"
 
-- title: "Google Cloud Account Takeover via URL Parsing Confusionr"
+- title: "Google Cloud Account Takeover via URL Parsing Confusion"
   tags: "OAuth"
   author: "Mohamed Benchikh"
   publication_date: "2025-04-29"
   added_date: "2025-05-03"
   url: "https://infosecwriteups.com/google-cloud-account-takeover-via-url-parsing-confusion-c5e47389b7c7"
+
+- title: "Exploiting XSS with 20 characters limitation"
+  tags: "XSS"
+  author: "marektoth"
+  publication_date: "2020-08-23"
+  added_date: "2025-05-03"
+  url: "https://marektoth.com/blog/xss-20-chars/"
