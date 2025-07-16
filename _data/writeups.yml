@@ -326,3 +326,10 @@
   publication_date: "2020-08-23"
   added_date: "2025-05-03"
   url: "https://marektoth.com/blog/xss-20-chars/"
+
+- title: "Why XSS Persists in This Frameworks Era?"
+  tags: "XSS"
+  author: "canalun (@i_am_canalun)"
+  publication_date: "2025-07-08"
+  added_date: "2025-07-16"
+  url: "https://flatt.tech/research/posts/why-xss-persists-in-this-frameworks-era/"
