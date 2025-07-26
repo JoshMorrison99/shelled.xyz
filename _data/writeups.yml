@@ -312,3 +312,10 @@
   publication_date: "2024-02-04"
   added_date: "2025-07-26"
   url: "https://nokline.github.io/bugbounty/2024/02/04/ChatGPT-ATO.html/"
+
+- title: "Netflix Vulnerability: Dependency Confusion in Action"
+  tags: "Dependency Confusion"
+  author: "Roni Carta & Lupin"
+  publication_date: "2025-06-10"
+  added_date: "2025-07-26"
+  url: "https://www.landh.tech/blog/20250610-netflix-vulnerability-dependency-confusion"
