@@ -319,3 +319,10 @@
   publication_date: "2025-06-10"
   added_date: "2025-07-26"
   url: "https://www.landh.tech/blog/20250610-netflix-vulnerability-dependency-confusion"
+
+- title: "How XBOW turned a JavaScript hint into a working file inclusion"
+  tags: "LFI"
+  author: "Nico Waisman"
+  publication_date: "2025-07-21"
+  added_date: "2025-07-26"
+  url: "https://xbow.com/blog/xbow-photo-proxy-lfi/"
