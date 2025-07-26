@@ -305,3 +305,10 @@
   publication_date: "2025-07-21"
   added_date: "2025-07-26"
   url: "https://gmsgadget.com/"
+
+- title: "ChatGPT Account Takeover - Wildcard Web Cache Deception"
+  tags: "Cache Deception"
+  author: "harel (@h4r3l)"
+  publication_date: "2024-02-04"
+  added_date: "2025-07-26"
+  url: "https://nokline.github.io/bugbounty/2024/02/04/ChatGPT-ATO.html/"
