@@ -75,13 +75,6 @@
   added_date: "2025-04-10"
   url: "https://www.jerkeby.se/newsletter/posts/prototype-poisoning/"
 
-- title: "Hacking Happy Hour: 0days on Tap and SQLi Shots (Ep. 118)"
-  tags: "YouTube"
-  author: "Rhynorater, rez0__"
-  publication_date: "2025-04-10"
-  added_date: "2025-04-10"
-  url: "https://www.youtube.com/watch?v=DWczX_1t_x4"
-
 - title: "Remote code execution (RCE) 101"
   tags: "RCE, AEM"
   author: "DK999"
@@ -187,26 +180,12 @@
   added_date: "2025-04-17"
   url: "https://www.yeswehack.com/learn-bug-bounty/http-header-exploitation"
 
-- title: "The Art of Authentication Bypass"
-  tags: "YouTube, Authentication Bypass"
-  author: "Abdallah AL Mohameed"
-  publication_date: "2025-04-13"
-  added_date: "2025-04-17"
-  url: "https://www.youtube.com/watch?v=lE9I92YKnV8"
-
 - title: "CPDoS"
   tags: "CPDoS"
   author: "Luigi Lo Iacono, Hoai Viet Nguyen"
   publication_date: "2019-11-14"
   added_date: "2025-04-17"
   url: "https://cpdos.org/"
-
-- title: "Abusing Iframes from a client-side hacker (Ep. 119)"
-  tags: "YouTube"
-  author: "Rhynorater"
-  publication_date: "2025-04-17"
-  added_date: "2025-04-17"
-  url: "https://www.youtube.com/watch?v=eljAcnMRVf4"
 
 - title: "0-Click Mass Account Takeover via Password Reset Functionality"
   tags: "Password Reset, ATO"
@@ -242,13 +221,6 @@
   publication_date: "2025-01-30"
   added_date: "2025-04-20"
   url: "https://blog.doyensec.com/2025/01/30/oauth-common-vulnerabilities.html"
-
-- title: "OAuth Secret"
-  tags: "YouTube"
-  author: "gregxsunday"
-  publication_date: "2024-06-07"
-  added_date: "2025-04-20"
-  url: "https://www.youtube.com/watch?v=n9x7_J_a_7Q"
 
 - title: "Traveling with OAuth — Account Takeover on Booking.com"
   tags: "OAuth"
@@ -299,13 +271,6 @@
   added_date: "2025-04-29"
   url: "https://www.imperva.com/blog/hacking-microsoft-and-wix-with-keyboard-shortcuts/"
 
-- title: "SpaceRaccoon - From Day Zero to Zero Day (Ep.120)"
-  tags: "YouTube"
-  author: "Rhynorater, Spaceraccoonsec"
-  publication_date: "2025-05-01"
-  added_date: "2025-05-01"
-  url: "https://www.youtube.com/watch?v=7ppNXESTu6I"
-
 - title: "Breaking OTPs in the Real World: How Design Flaws Led to Full Account Takeover"
   tags: "OTP Bypass"
   author: "Huntsman"
@@ -333,3 +298,10 @@
   publication_date: "2025-07-08"
   added_date: "2025-07-16"
   url: "https://flatt.tech/research/posts/why-xss-persists-in-this-frameworks-era/"
+
+- title: "GMSGadget"
+  tags: "Gadget"
+  author: "kevin-mizu (@kevin_mizu)"
+  publication_date: "2025-07-21"
+  added_date: "2025-07-26"
+  url: "https://gmsgadget.com/"
