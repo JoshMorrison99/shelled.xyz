@@ -326,3 +326,10 @@
   publication_date: "2025-07-21"
   added_date: "2025-07-26"
   url: "https://xbow.com/blog/xbow-photo-proxy-lfi/"
+
+- title: "The campaign is not available in your country: XBOW discovered an SQLi while attempting to bypass geolocation restrictions."
+  tags: "SQLi"
+  author: "Nico Waisman"
+  publication_date: "2025-07-31"
+  added_date: "2025-08-01"
+  url: "https://xbow.com/blog/xbow-geolocation-sqli"
