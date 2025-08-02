@@ -341,6 +341,19 @@
   added_date: "2025-08-01"
   url: "https://www.wiz.io/blog/critical-vulnerability-base44"
 
+- title: "Exploiting HTTP Parsers Inconsistencies"
+  tags: "403 Bypass"
+  author: "@rafax00"
+  publication_date: "2023-06-17"
+  added_date: "2025-08-02"
+  url: "https://blog.bugport.net/exploiting-http-parsers-inconsistencies"
+
+- title: "Gotta cache 'em all: bending the rules of web cache exploitation"
+  tags: "Web Cache Exploitation"
+  author: "@tincho_508"
+  publication_date: "2024-08-08"
+  added_date: "2025-08-02"
+  url: "https://portswigger.net/research/gotta-cache-em-all"
 
 
 
